@@ -1,0 +1,5 @@
+train: /yourfolder/train
+val: /youfolder/val
+nc: 2  # number of classes , add here if you make annotaions in labelImg
+names: ['parking_guard', 'labrador', ]  # class names
+
