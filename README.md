@@ -1,7 +1,6 @@
 # ObjectAnalyzer
 
-ObjectAnalyzer is a tool designed to help with training and deploying a YOLOv5 model to detect and analyze specific types of objects in images. This project includes scripts for data preparation, training the model, and performing real-time detection using a webcam or video file. The aim is to create a scalable and efficient object detection system with Machine learning, you can train to identify what ever you want.
-
+ObjectAnalyzer is a tool to help you train and use a YOLOv5 model to detect and analyze specific objects in images. It includes scripts for preparing data, training the model, and real-time detection using a webcam or video file. The goal is to create a flexible and efficient system for object detection using machine learning, which you can train to identify anything you want.
 ## Features
 
 - **Data Preparation**: Split images into training and validation sets, and automate initial annotations using a pre-trained YOLOv5 model.
